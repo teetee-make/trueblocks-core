@@ -55,7 +55,6 @@ class CAccountName : public CBaseNode {
     DECLARE_NODE(CAccountName);
 
     // EXISTING_CODE
-    void finishClean(void);
     // EXISTING_CODE
     bool operator==(const CAccountName& it) const;
     bool operator!=(const CAccountName& it) const {

@@ -484,7 +484,7 @@ bool COptions::processEditCommand(CStringArray& terms, bool to_custom) {
     target.decimals = str_2_Uint(trim(getEnvStr("TB_NAME_DECIMALS"), '\"'));
     target.description = trim(getEnvStr("TB_NAME_DESCR"), '\"');
     target.is_custom = str_2_Bool(trim(getEnvStr("TB_NAME_CUSTOM"), '\"')) || to_custom;
-    target.finishClean();
+    finishClean(target);
 
     if (!isApiMode() && isTestMode()) {
         cout << string_q(45, '-') << endl;

@@ -56,4 +56,6 @@ class COptions : public COptionsBase {
     void exportCollections(const CStringArray& terms);
     bool processEditCommand(CStringArray& terms, bool to_custom);
     bool handle_clean(void);
+    void finishClean(CAccountName& name);
+    bool cleanNames(const string_q& sourceIn, const string_q& destIn);
 };

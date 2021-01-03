@@ -502,11 +502,5 @@ const char* STR_DISPLAY_ACCOUNTNAME =
 
 //---------------------------------------------------------------------------
 // EXISTING_CODE
-void CAccountName::finishClean(void) {
-    is_prefund = false;
-    is_erc20 = false;
-    is_erc721 = false;
-    type = false;
-}
 // EXISTING_CODE
 }  // namespace qblocks

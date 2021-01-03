@@ -12,8 +12,24 @@
  *-------------------------------------------------------------------------------------------*/
 #include "options.h"
 
+bool isERC20(const address_t& addr) { return false; }
+bool isERC721(const address_t& addr) { return false; }
 //--------------------------------------------------------------------
-bool cleanNames(const string_q& sourceIn, const string_q& destIn) {
+void COptions::finishClean(CAccountName& name) {
+    name.is_prefund = prefundWeiMap[name.address] > 0;
+    if (getDeployBlock(name.address)) {
+        name.is_erc20 = isERC20(name.address);
+        name.is_erc721 = isERC721(name.address);
+        name.type = "Contract";
+    } else {
+        name.is_erc20 = isERC20(name.address);
+        name.is_erc721 = isERC721(name.address);
+        name.type = "EOA";
+    }
+}
+
+//--------------------------------------------------------------------
+bool COptions::cleanNames(const string_q& sourceIn, const string_q& destIn) {
     string_q source = sourceIn;
     string_q dest = destIn;
 
@@ -35,7 +51,7 @@ bool cleanNames(const string_q& sourceIn, const string_q& destIn) {
     CAccountName name;
     CAccountNameArray names;
     while (name.parseText(fields, contents)) {
-        name.finishClean();
+        finishClean(name);
         names.push_back(name);
     }
     sort(names.begin(), names.end());
@@ -46,8 +62,6 @@ bool cleanNames(const string_q& sourceIn, const string_q& destIn) {
         os << n.Format(STR_DISPLAY_ACCOUNTNAME) << endl;
     }
     stringToAsciiFile(dest, os.str());
-
-    ::remove(getCachePath("names/names.bin").c_str());
 
     return true;
 }
@@ -65,6 +79,10 @@ bool COptions::handle_clean(void) {
     string_q customDest = configPath("names/names_custom.tab");
     if (!cleanNames(customSource, customDest))
         EXIT_USAGE("Custom names file (" + customSource + ") not found. Quitting...");
+
+    ::remove(getCachePath("names/names.bin").c_str());
+    CAccountName acct;
+    getNamedAccount(acct, "0x0");  // reloads
 
     return false;  // don't proceed
 }
