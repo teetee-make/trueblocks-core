@@ -323,13 +323,6 @@ ethNames --named --custom --owned --fmt api
     "description": "FortKnoxster offers end-to-end encrypted inbox, chat, decentralized storage, calling, video conferencing, voice messages and much more."
   },
   {
-    "tags": "20-Friends",
-    "address": "0x00bbb33024f0b9d6ac0df6d158c498c291bfb298",
-    "name": "Name 0x00bbb330",
-    "source": "OnChain",
-    "decimals": 0
-  },
-  {
     "tags": "90-DevCon2:Individual",
     "address": "0x00c4734f88e8da8e24bf9085d60bb34690957ee1",
     "name": "will",
@@ -1304,6 +1297,13 @@ ethNames --named --custom --owned --fmt api
     "description": "A global decentralized blockchain deal and discount marketplace."
   },
   {
+    "tags": "55-Defi",
+    "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+    "name": "Curve.fi renBTC/wBTC/sBTC (crvRenWSB...)",
+    "source": "Etherscan",
+    "decimals": 0
+  },
+  {
     "tags": "50-Tokens:ERC20",
     "address": "0x076641af1b8f06b7f8c92587156143c109002cbe",
     "name": "SoPay",
@@ -1393,6 +1393,13 @@ ethNames --named --custom --owned --fmt api
     "source": "On Chain",
     "decimals": 8,
     "description": "DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services to whoever wishes to accept it."
+  },
+  {
+    "tags": "55-Defi",
+    "address": "0x07db4b9b3951094b9e278d336adf46a036295de7",
+    "name": "Yearn: StrategyCurveYVoterProxy",
+    "source": "Etherscan",
+    "decimals": 0
   },
   {
     "tags": "50-Tokens:ERC20",
@@ -1498,13 +1505,6 @@ ethNames --named --custom --owned --fmt api
     "source": "Twitter",
     "decimals": 0,
     "description": "A"
-  },
-  {
-    "tags": "31-Gitcoin Grants:Friends",
-    "address": "0x088b1147aceaf35cc9be639f4e702268411c7405",
-    "name": "Name 0x088b1147",
-    "source": "Gitcoin Website",
-    "decimals": 0
   }], "types": [
 { "type": "CAccountName", "fields": [{ "name": "tags", "type": "text" }, { "name": "address", "type": "address" }, { "name": "name", "type": "text" }, { "name": "symbol", "type": "text" }, { "name": "source", "type": "text" }, { "name": "decimals", "type": "unumber" }, { "name": "description", "type": "text" }] }
 ], "meta": {"unripe": "0xdeadbeef","ripe": "0xdeadbeef","staging": "0xdeadbeef","finalized": "0xdeadbeef","client": "0xdeadbeef", "namePath": "--" } }

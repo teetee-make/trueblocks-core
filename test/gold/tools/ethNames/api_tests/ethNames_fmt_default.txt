@@ -10,7 +10,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -22,7 +25,10 @@
       "decimals": 18,
       "description": "Cryptocurrency, credit, debit and reward payments at your fingertips",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -34,7 +40,10 @@
       "decimals": 4,
       "description": "THR represents a basket of top-traded high-demand coins Simply put, it‚Äö√Ñ√¥s a Basket of Multiple cryptocurrencies in which you can invest by buying tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -46,7 +55,10 @@
       "decimals": 0,
       "description": "Ethereum tip jar unicorn tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -58,7 +70,10 @@
       "decimals": 0,
       "description": "https://multiply.charity",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -70,7 +85,10 @@
       "decimals": 0,
       "description": "@antiprosynth",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -82,7 +100,10 @@
       "decimals": 4,
       "description": "SilentNotary is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -94,7 +115,10 @@
       "decimals": 6,
       "description": "SkinCoin is a multipurpose cryptocurrency for gaming industry.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -106,7 +130,10 @@
       "decimals": 0,
       "description": "Ethereum tip jar unicorn tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -118,7 +145,10 @@
       "decimals": 18,
       "description": "A Self-deflationary, Fairly Distributed, Multiplatform Utility Token.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -130,7 +160,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -142,7 +175,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -154,7 +190,10 @@
       "decimals": 0,
       "description": "Ethereum tip jar unicorn tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -166,7 +205,10 @@
       "decimals": 18,
       "description": "A blockchain powered trading platform that integrates crypto assets from multiple exchanges.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -178,7 +220,10 @@
       "decimals": 0,
       "description": "Also BigTipper at Ethereum Tip Jar and Known Exchanges_001 at Ether Camp",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -190,7 +235,10 @@
       "decimals": 18,
       "description": "Native multichain system in the world that supports Ethereum Virtual Machine EVM, which consists of one main chain and multiple derived chains.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -202,7 +250,10 @@
       "decimals": 0,
       "description": "https://phishfort.com/protect",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -214,7 +265,10 @@
       "decimals": 18,
       "description": "The Insights Network‚Äö√Ñ√¥s unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -226,7 +280,10 @@
       "decimals": 18,
       "description": "Distributed bank based on bitcoin hash power credit, offers innovative service of receiving dividend from mining and multiple derivative financial services on the basis of mining hash power.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -238,7 +295,10 @@
       "decimals": 0,
       "description": "The ethereum tip jar",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     }
   ],
   "types": [
@@ -284,6 +344,18 @@
         {
           "name": "is_prefund",
           "type": "bool"
+        },
+        {
+          "name": "is_erc20",
+          "type": "bool"
+        },
+        {
+          "name": "is_erc721",
+          "type": "bool"
+        },
+        {
+          "name": "type",
+          "type": "text"
         }
       ]
     }

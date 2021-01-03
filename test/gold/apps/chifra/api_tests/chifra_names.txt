@@ -10,7 +10,10 @@
       "decimals": 0,
       "description": "The only regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -22,7 +25,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -34,7 +40,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -46,7 +55,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -58,7 +70,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -70,7 +85,10 @@
       "decimals": 18,
       "description": "Blockchain based system fully automated, with full clearing of utility tokens associating the price and distribution based on offer and demand for IPs",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -82,7 +100,10 @@
       "decimals": 18,
       "description": "Blockchain Prediction Markets Platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -94,7 +115,10 @@
       "decimals": 18,
       "description": "FortKnoxster offers end-to-end encrypted inbox, chat, decentralized storage, calling, video conferencing, voice messages and much more.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -106,7 +130,10 @@
       "decimals": 18,
       "description": "Eximchain‚Äö√Ñ√¥s public blockchain network enables privacy, scalability and security for the supply chain.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -118,7 +145,10 @@
       "decimals": 18,
       "description": "Paycent is a hybrid mobile app that lets users convert digital assets to fiat and vice versa in real time.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -130,7 +160,10 @@
       "decimals": 6,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -142,7 +175,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -154,7 +190,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -166,7 +205,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -178,7 +220,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -190,7 +235,10 @@
       "decimals": 18,
       "description": "CanonChain will be triggered from the protocol layer and the chip layer of the communication to provide a robust foundation for the entire blockchain industry.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -202,7 +250,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -214,7 +265,10 @@
       "decimals": 8,
       "description": "Payments solutions for the travel industry.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -226,7 +280,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -238,7 +295,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -250,7 +310,10 @@
       "decimals": 18,
       "description": "Decentralized game platform operating on Blockchain, using the VR/AR technologies and machine learning tool to enhance the experience of playing games and purchasing digital goods in games.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -262,7 +325,10 @@
       "decimals": 18,
       "description": "LikeCoin aims to reinvent the Like by realigning creativity and reward. We enable attribution and cross-application collaboration on creative contents",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -274,7 +340,10 @@
       "decimals": 18,
       "description": "The ICO market is becoming more regulated, but this isn‚Äö√Ñ√¥t stopping scams from penetrating the cryptocurrency community. That is why we created the Founding Community Bitdepositary with integrated payment systems.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -286,7 +355,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -298,7 +370,10 @@
       "decimals": 18,
       "description": "Student jobs marketplace.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -310,7 +385,10 @@
       "decimals": 6,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -322,7 +400,10 @@
       "decimals": 0,
       "description": "Biotron is a fully transparent personal data analytics platform on blockchain.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -334,7 +415,10 @@
       "decimals": 18,
       "description": "Decentralized lottery platform based on the Ethereum blockchain and managed by smart contracts without any human intervention.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -346,7 +430,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -358,7 +445,10 @@
       "decimals": 2,
       "description": "Cappasity brings an in-store browsing experience to online retail through interactive 3D images.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -370,7 +460,10 @@
       "decimals": 8,
       "description": "The Eternal Project is an undertaking for the rapid spread of Eternal Wallet and Eternal Coin around the world, by utilizing the skills and infrastructures of global corporations and individuals.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -382,7 +475,10 @@
       "decimals": 2,
       "description": "Gemini dollar combines the creditworthiness and price stability of the U.S. dollar with blockchain technology and the oversight of U.S. regulators.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -394,7 +490,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -406,7 +505,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -418,7 +520,10 @@
       "decimals": 18,
       "description": "The Game of Chance.Changed",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -430,7 +535,10 @@
       "decimals": 18,
       "description": "Aims to be a passive-income-generating Platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -442,7 +550,10 @@
       "decimals": 18,
       "description": "Coin for custom CyberFM 'Mainstream For The Underground' royalty payments.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -454,7 +565,10 @@
       "decimals": 12,
       "description": "Zilliqa is a high-throughput public blockchain platform - designed to scale to thousands of transactions per second.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -466,7 +580,10 @@
       "decimals": 0,
       "description": "ACE is a utility token, that serves as a form of access to the TokenStars platform and its internal currency. TokenStars is the first talent management platform on the blockchain, that will connect talents celebrities with fans and advertisers.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -478,7 +595,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -490,7 +610,10 @@
       "decimals": 18,
       "description": "FNKOS is a fog computing-based blockchain operating system designed to make the best use of the edge computing resources such as idle hardware network and storage resources.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -502,7 +625,10 @@
       "decimals": 18,
       "description": "A global decentralized blockchain deal and discount marketplace.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -514,7 +640,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -526,7 +655,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -538,7 +670,10 @@
       "decimals": 18,
       "description": "The online community where you earn for sharing knowledge ideas.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -550,7 +685,10 @@
       "decimals": 18,
       "description": "Infrastructure company that provides a suite of tools for traditional asset markets to leverage the highly flexible and powerful qualities of blockchain based digital asset protocols",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -562,7 +700,10 @@
       "decimals": 18,
       "description": "Revolutionizing the way of Financial Transactions",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -574,7 +715,10 @@
       "decimals": 18,
       "description": "IBTC is a tokenized version of Bitcoin build on Ethereum blockchain.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -586,7 +730,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -598,7 +745,10 @@
       "decimals": 8,
       "description": "DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services to whoever wishes to accept it.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -610,7 +760,10 @@
       "decimals": 18,
       "description": "Legally Binding Smart Contracts, Powered by AI.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -622,7 +775,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -634,7 +790,10 @@
       "decimals": 0,
       "description": "The Ethereum smart contract-based that offers a 0% house edge and solves the transparency question once and for all.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -646,7 +805,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -658,7 +820,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -670,7 +835,10 @@
       "decimals": 0,
       "description": "Aims to be the blockchain solution for the global dental industry.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -682,7 +850,10 @@
       "decimals": 8,
       "description": "Tierion creates software to reduce the cost and complexity of trust. Anchoring data to the blockchain and generating a timestamp proof.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -694,7 +865,10 @@
       "decimals": 18,
       "description": "Lendingblock is an open exchange for cryptocurrency loans, where borrowers and lenders are instantly matched in simple, safe and transparent way.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -706,7 +880,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -718,7 +895,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -730,7 +910,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -742,7 +925,10 @@
       "decimals": 18,
       "description": "A network of decentralized markets and communities. Create, operate, and govern. Powered by Ethereum, Aragon, and IPFS.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -754,7 +940,10 @@
       "decimals": 8,
       "description": "Applying artificial intelligence and technical analysis, our fleet of data bots follow real-time data sources and send you actionable alerts for success in cryptocurrency markets.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -766,7 +955,10 @@
       "decimals": 18,
       "description": "Matryx is the Collaborative Research Development Engine of Nanome‚Äö√Ñ√¥s VR toolset.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -778,7 +970,10 @@
       "decimals": 6,
       "description": "Private banking platform",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -790,7 +985,10 @@
       "decimals": 8,
       "description": "AN Ethereum Token Backed Micro Macro Freelance Marketplace.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -802,7 +1000,10 @@
       "decimals": 18,
       "description": "DAEX is an open and decentralized clearing and settlement ecosystem for all cryptocurrency exchanges.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -814,7 +1015,10 @@
       "decimals": 6,
       "description": "IOT applications",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -826,7 +1030,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -838,7 +1045,10 @@
       "decimals": 8,
       "description": "SWFT is a cross-blockchain platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -850,7 +1060,10 @@
       "decimals": 18,
       "description": "Connecting the Financial World Coinsuper Ecosystem Network",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -862,7 +1075,10 @@
       "decimals": 8,
       "description": "HealthTech, Smart Capital, and Prime Brokerage Solutions",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -874,7 +1090,10 @@
       "decimals": 18,
       "description": "Platon Finance with its PlatonCoin token is an ecosystem that connects the digital crypto-world with the real one. Through the Platon Club, the project aims to drive adoption of cryptocurrencies.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -886,7 +1105,10 @@
       "decimals": 18,
       "description": "Streamr is building the world‚Äö√Ñ√¥s leading Marketplace and decentralised Network for real-time data.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -898,7 +1120,10 @@
       "decimals": 8,
       "description": "Democratizing influence.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -910,7 +1135,10 @@
       "decimals": 18,
       "description": "The Basic Attention Token is the new token for the digital advertising industry.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -922,7 +1150,10 @@
       "decimals": 0,
       "description": "An open-source protocol that delivers the global standard for ticketing.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -934,7 +1165,10 @@
       "decimals": 18,
       "description": "decentralized PvP gaming platform integrating games, applications and services based on intelligent competitions between users created to help players monetize their in-gaming achievements.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -946,7 +1180,10 @@
       "decimals": 18,
       "description": "Howdoo is a decentralized social platform for users, content creators, advertisers.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -958,7 +1195,10 @@
       "decimals": 8,
       "description": "Po.et aims to reclaim value for content creators, publishers and consumers.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -970,7 +1210,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -982,7 +1225,10 @@
       "decimals": 18,
       "description": "The next-generation digital distribution platform, delivering all types of video games including AAA-titles, to the fast-growing global game community.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -994,7 +1240,10 @@
       "decimals": 8,
       "description": "Wal-e is social media project behind of WaleTokeN, we developing Live video streaming social network application, this application will allowed you connect with people through live videos and messaging.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1006,7 +1255,10 @@
       "decimals": 0,
       "description": "Cryptopay aims to provide the ability to spend, save, and transact digital currencies.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1018,7 +1270,10 @@
       "decimals": 8,
       "description": "Saving management on blockchain technology",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1030,7 +1285,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1042,7 +1300,10 @@
       "decimals": 9,
       "description": "Decentralized leveraged exchange.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1054,7 +1315,10 @@
       "decimals": 18,
       "description": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1066,7 +1330,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1078,7 +1345,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1090,7 +1360,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1102,7 +1375,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1114,7 +1390,10 @@
       "decimals": 18,
       "description": "A platform for the private trust management market, built on Blockchain technology and Smart Contracts.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1126,7 +1405,10 @@
       "decimals": 18,
       "description": "Aigang is DAO Insurance Protocol Crowd-sourced insurance pools discovery.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1138,7 +1420,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1150,7 +1435,10 @@
       "decimals": 18,
       "description": "Decentralized credit scoring powered by Ethereum and IPFS.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1162,7 +1450,10 @@
       "decimals": 18,
       "description": "Centrality is a graph theory term ‚Äö√Ñ√¨ a point in a decentralised system that unites to other points.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1174,7 +1465,10 @@
       "decimals": 18,
       "description": "Sell and buy crypto assets around the world for local payment methods.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1186,7 +1480,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1198,7 +1495,10 @@
       "decimals": 8,
       "description": "Exchange with decentralized ledgers",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1210,7 +1510,10 @@
       "decimals": 8,
       "description": "Trading crypto-currency terminal for two exchanges simultaneously.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1222,7 +1525,10 @@
       "decimals": 2,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1234,7 +1540,10 @@
       "decimals": 18,
       "description": "Virtual social trading platform for equities and cryptocurrencies powered by proprietary AI engine",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1246,7 +1555,10 @@
       "decimals": 0,
       "description": "Grid+ creates products that enable mainstream use of digital assets and cryptocurrencies. Grid+ strives to be the hardware, software, and cryptocurrency experts building the foundation for a more efficient and inclusive financial future.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1258,7 +1570,10 @@
       "decimals": 18,
       "description": "Broker-less financial trading platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1270,7 +1585,10 @@
       "decimals": 18,
       "description": "Cofound.it is a platform that connects you to teams that have trained to become serious blockchain businesses",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1282,7 +1600,10 @@
       "decimals": 18,
       "description": "MoneyToken provides crypto-backed loans, stablecoin MTC and decentralized exchange service",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1294,7 +1615,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1306,7 +1630,10 @@
       "decimals": 18,
       "description": "Professional Karate Sports Organization",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1318,7 +1645,10 @@
       "decimals": 18,
       "description": "PHI = Platform for Hybrid Investments, a marketplace for financial services and products both for traditional than crypto assets.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1330,7 +1660,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1342,7 +1675,10 @@
       "decimals": 18,
       "description": "Digital Currency",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1354,7 +1690,10 @@
       "decimals": 18,
       "description": "A proof-of-stake smart contract backed by a physical mining facility.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1366,7 +1705,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1378,7 +1720,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1390,7 +1735,10 @@
       "decimals": 18,
       "description": "A decentralized cryptocurrency-concentrated content payment community.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1402,7 +1750,10 @@
       "decimals": 18,
       "description": "Own formerly Chainium is a security token blockchain project focused on revolutionising equity markets.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1414,7 +1765,10 @@
       "decimals": 18,
       "description": "MIB coin is a Mobile Mining based Blockchain that has constructed an ecosystem that minimizes the maintenance of Blockchain Network.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1426,7 +1780,10 @@
       "decimals": 18,
       "description": "Bethereum is a decentralised, social-betting platform based on Ethereum technology and Smart Contracts. Bether is the digital ERC-223 token powering the Bethereum solution.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1438,7 +1795,10 @@
       "decimals": 3,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1450,7 +1810,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1462,7 +1825,10 @@
       "decimals": 18,
       "description": "XOV is researching and building a Global Decentralised Bank using blockchain technology.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1474,7 +1840,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1486,7 +1855,10 @@
       "decimals": 6,
       "description": "Alpha coin is based for the basis of first-class mining, experts were appointed to develop the mining farm",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1498,7 +1870,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1510,7 +1885,10 @@
       "decimals": 18,
       "description": "A distributed blockchain enterprise.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1522,7 +1900,10 @@
       "decimals": 8,
       "description": "The RChain Platform aims to be a decentralized, economically sustainable public compute infrastructure.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1534,7 +1915,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1546,7 +1930,10 @@
       "decimals": 8,
       "description": "TTC Protocol is a decentralized and token-incentivized protocol for social network services and online communities",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1558,7 +1945,10 @@
       "decimals": 8,
       "description": "Owndata is a crypto marketplace for data sellers and buyers.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1570,7 +1960,10 @@
       "decimals": 18,
       "description": "Omnitude is a middleware layer allowing eCommerce businesses to adopt blockchain quickly and efficiently, without needing to replace current systems.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1582,7 +1975,10 @@
       "decimals": 18,
       "description": "The stock market is inefficient with respect to new developments in machine learning ‚Äö√Ñ√Æ only a fraction of the world's data scientists have access to its data. Numerai is changing this.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1594,7 +1990,10 @@
       "decimals": 18,
       "description": "Get insight about your crypto portfolio. Benchmark it against the market and other traders. Follow the best performing investors and invest exactly like them with the copy trade feature. Discover new opportunities, and new tools.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1606,7 +2005,10 @@
       "decimals": 18,
       "description": "Insight Chain is an EOS-based data ecosystem on the blockchain, works on building Wall Street-like financial order in the blockchain domain.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1618,7 +2020,10 @@
       "decimals": 18,
       "description": "Blockchain-based collectibles data authentication platform",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1630,7 +2035,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1642,7 +2050,10 @@
       "decimals": 14,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1654,7 +2065,10 @@
       "decimals": 18,
       "description": "Cryptocurrency, credit, debit and reward payments at your fingertips",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1666,7 +2080,10 @@
       "decimals": 18,
       "description": "Platform for website monetization and distributed storage, built on IOTA Tangle and Ethereum",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1678,7 +2095,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1690,7 +2110,10 @@
       "decimals": 18,
       "description": "The BitDegree platform will offer students the best online courses with a clear and transparent blockchain based reward system and achievement tracking.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1702,7 +2125,10 @@
       "decimals": 18,
       "description": "nDEX Network is a next generation decentralized ethereum token exchange. Our primary goal is to provide a clean, fast and secure trading environment with lowest service charge.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1714,7 +2140,10 @@
       "decimals": 0,
       "description": "Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1726,7 +2155,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1738,7 +2170,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1750,7 +2185,10 @@
       "decimals": 18,
       "description": "Document Distribution Platform",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1762,7 +2200,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1774,7 +2215,10 @@
       "decimals": 18,
       "description": "AI-Based Decentralized Bioinformatic Network",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1786,7 +2230,10 @@
       "decimals": 18,
       "description": "AppCoins is meant for use in the AppCoins blockchain platform to perform transactions in the app store ecosystem.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1798,7 +2245,10 @@
       "decimals": 8,
       "description": "Self-mining smart contract.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1810,7 +2260,10 @@
       "decimals": 18,
       "description": "Aims to provide a service for funds management in case of different life events, in safe and convenient way.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1822,7 +2275,10 @@
       "decimals": 6,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1834,7 +2290,10 @@
       "decimals": 18,
       "description": "High-performance Decentralized Application Platform",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1846,7 +2305,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1858,7 +2320,10 @@
       "decimals": 12,
       "description": "ETHBITS iTrade aims to provide new users with all the information needed to decide whom to follow, including a full profile outlining profit and loss in different time frames and historical graphs of performance.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1870,7 +2335,10 @@
       "decimals": 10,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1882,7 +2350,10 @@
       "decimals": 18,
       "description": "Democratizing the creation of credit through permanently recorded debts and obligations.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1894,7 +2365,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1906,7 +2380,10 @@
       "decimals": 18,
       "description": "The Soniq project mission is using the innovative blockchain technology to support and connect people who want to be a part of the music world and monetize their favorite hobby.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1918,7 +2395,10 @@
       "decimals": 4,
       "description": "TEAM is a utility token for TokenStars - the talent management platform, that connects sports entertainment stars with fans and advertisers, bringing interaction between them to a new level.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1930,7 +2410,10 @@
       "decimals": 18,
       "description": "The DGTX Token is a protocol token that has real world utility and value. Its value derives directly from its utility as a vehicle for the commission-free trading of liquid futures contracts on the price of Bitcoin, Ethereum and Litecoin against the US Dollar.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1942,7 +2425,10 @@
       "decimals": 4,
       "description": "THR represents a basket of top-traded high-demand coins Simply put, it‚Äö√Ñ√¥s a Basket of Multiple cryptocurrencies in which you can invest by buying tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1954,7 +2440,10 @@
       "decimals": 18,
       "description": "A computer vision surveillance technology powered by fog network of miners.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1966,7 +2455,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1978,7 +2470,10 @@
       "decimals": 6,
       "description": "Blockchain-Powered Marketplace of Services",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -1990,7 +2485,10 @@
       "decimals": 18,
       "description": "Reputation Protocol and Decentralized Marketplace based on Ethereum blockchain",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2002,7 +2500,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2014,7 +2515,10 @@
       "decimals": 18,
       "description": "Unique Investment/Asset Management Platform",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2026,7 +2530,10 @@
       "decimals": 8,
       "description": "ClearCoin makes buying and selling of media on the blockchain simple and seamless. Its platform powers a system allowing for complete data transparency everyone can trust.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2038,7 +2545,10 @@
       "decimals": 18,
       "description": "A smart-contract open ecosystem providing small businesses access to global trade by using a crypto token for payment or borrowing.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2050,7 +2560,10 @@
       "decimals": 15,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2062,7 +2575,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2074,7 +2590,10 @@
       "decimals": 6,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2086,7 +2605,10 @@
       "decimals": 18,
       "description": "Bancor Protocol is a standard for a new generation of cryptocurrencies called Smart Tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2098,7 +2620,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2110,7 +2635,10 @@
       "decimals": 0,
       "description": "Ethereum tip jar unicorn tokens",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2122,7 +2650,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2134,7 +2665,10 @@
       "decimals": 18,
       "description": "BitRent is the blockchain platform meant to attract commercial and residential property investments at an early stage of construction in order to gain maximum profit by selling and renting out the acquired property",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2146,7 +2680,10 @@
       "decimals": 8,
       "description": "Blockchaining India‚Äö√Ñ√¥s Big Data",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2158,7 +2695,10 @@
       "decimals": 0,
       "description": "DEW is a Decentralized Exchange and also a gateway to the global blockchain securities market, through an almighty account, you can trade Blockchain Assets, Stocks, Futures, Forex, ETF, Bet Contract etc.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2170,7 +2710,10 @@
       "decimals": 6,
       "description": "Sapien is a decentralized social news platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2182,7 +2725,10 @@
       "decimals": 18,
       "description": "LION token is an ERC20 token powered by the Ethereum Blockchain. It is a utility token designed to operate inside of the CoinLion trading platform and research portal.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2194,7 +2740,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2206,7 +2755,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2218,7 +2770,10 @@
       "decimals": 8,
       "description": "A decentralized e-commerce platform builds on blockchain for loyalty rewards.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2230,7 +2785,10 @@
       "decimals": 18,
       "description": "Network Learning is an e-learning platform where users who are new to cryptocurrency can come visit to learn the basics.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2242,7 +2800,10 @@
       "decimals": 8,
       "description": "Property Transactions Secured Through Blockchain.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2254,7 +2815,10 @@
       "decimals": 18,
       "description": "Social Chain based on hundreds of millions of users.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2266,7 +2830,10 @@
       "decimals": 0,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2278,7 +2845,10 @@
       "decimals": 18,
       "description": "A digital marketing revolutionon the blockchain",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2290,7 +2860,10 @@
       "decimals": 18,
       "description": "RoBet is an Ethereum based sportsbook platform regulated by smart contracts.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2302,7 +2875,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2314,7 +2890,10 @@
       "decimals": 18,
       "description": "A smart, secure, user-friendly, multi-coin wallet for all essential crypto needs, from safekeeping, intelligent trading, portfolio management, easy conversion to fiat and spending of cryptocurrencies - MidasProtocol.io",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2326,7 +2905,10 @@
       "decimals": 18,
       "description": "CLEAN GREEN ENERGY FOR CRYPTO MINING",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2338,7 +2920,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2350,7 +2935,10 @@
       "decimals": 18,
       "description": "UnikoinGold is an ethereum-based, decentralized crypto token designed for high-volume, high security, inexpensive gaming and esports related transactions on the Unikrn platform.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2362,7 +2950,10 @@
       "decimals": 18,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2374,7 +2965,10 @@
       "decimals": 18,
       "description": "Scroll is a data storage, management and logistics platform that uses blockchain technology to add better cryptography and more transparency to the Internet of Information.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2386,7 +2980,10 @@
       "decimals": 18,
       "description": "Decentralised global wireless internet provider",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2398,7 +2995,10 @@
       "decimals": 18,
       "description": "The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It‚Äö√Ñ√¥s complementary to the Ethereum blockchain and works with any ERC20 compatible token.",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     },
     {
       "deleted": false,
@@ -2410,7 +3010,10 @@
       "decimals": 8,
       "description": "",
       "is_custom": false,
-      "is_prefund": false
+      "is_prefund": false,
+      "is_erc20": false,
+      "is_erc721": false,
+      "type": ""
     }
   ],
   "types": [
@@ -2456,6 +3059,18 @@
         {
           "name": "is_prefund",
           "type": "bool"
+        },
+        {
+          "name": "is_erc20",
+          "type": "bool"
+        },
+        {
+          "name": "is_erc721",
+          "type": "bool"
+        },
+        {
+          "name": "type",
+          "type": "text"
         }
       ]
     }

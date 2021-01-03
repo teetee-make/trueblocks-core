@@ -12,8 +12,12 @@
  *-------------------------------------------------------------------------------------------*/
 #include "options.h"
 
-bool isERC20(const address_t& addr) { return false; }
-bool isERC721(const address_t& addr) { return false; }
+bool isERC20(const address_t& addr) {
+    return false;
+}
+bool isERC721(const address_t& addr) {
+    return false;
+}
 //--------------------------------------------------------------------
 void COptions::finishClean(CAccountName& name) {
     name.is_prefund = prefundWeiMap[name.address] > 0;
@@ -22,8 +26,8 @@ void COptions::finishClean(CAccountName& name) {
         name.is_erc721 = isERC721(name.address);
         name.type = "Contract";
     } else {
-        name.is_erc20 = isERC20(name.address);
-        name.is_erc721 = isERC721(name.address);
+        name.is_erc20 = false;
+        name.is_erc721 = false;
         name.type = "EOA";
     }
 }

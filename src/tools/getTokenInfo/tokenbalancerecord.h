@@ -54,7 +54,6 @@ class CTokenBalanceRecord : public CMonitor {
     DECLARE_NODE(CTokenBalanceRecord);
 
     // EXISTING_CODE
-    void loadAbiAndCache(const address_t& addr);
     // EXISTING_CODE
     bool operator==(const CTokenBalanceRecord& item) const;
     bool operator!=(const CTokenBalanceRecord& item) const {

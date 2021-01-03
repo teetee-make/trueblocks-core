@@ -370,15 +370,6 @@
       "description": "FortKnoxster offers end-to-end encrypted inbox, chat, decentralized storage, calling, video conferencing, voice messages and much more."
     },
     {
-      "tags": "20-Friends",
-      "address": "0x00bbb33024f0b9d6ac0df6d158c498c291bfb298",
-      "name": "Name 0x00bbb330",
-      "symbol": "",
-      "source": "OnChain",
-      "decimals": 0,
-      "description": ""
-    },
-    {
       "tags": "90-DevCon2:Individual",
       "address": "0x00c4734f88e8da8e24bf9085d60bb34690957ee1",
       "name": "will",
@@ -1540,6 +1531,15 @@
       "description": "A global decentralized blockchain deal and discount marketplace."
     },
     {
+      "tags": "55-Defi",
+      "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+      "name": "Curve.fi renBTC/wBTC/sBTC (crvRenWSB...)",
+      "symbol": "",
+      "source": "Etherscan",
+      "decimals": 0,
+      "description": ""
+    },
+    {
       "tags": "50-Tokens:ERC20",
       "address": "0x076641af1b8f06b7f8c92587156143c109002cbe",
       "name": "SoPay",
@@ -1637,6 +1637,15 @@
       "source": "On Chain",
       "decimals": 8,
       "description": "DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services to whoever wishes to accept it."
+    },
+    {
+      "tags": "55-Defi",
+      "address": "0x07db4b9b3951094b9e278d336adf46a036295de7",
+      "name": "Yearn: StrategyCurveYVoterProxy",
+      "symbol": "",
+      "source": "Etherscan",
+      "decimals": 0,
+      "description": ""
     },
     {
       "tags": "50-Tokens:ERC20",
@@ -1799,15 +1808,6 @@
       "source": "https://gitcoin.co/grants/425/turkish-cryptocurrency-youtuber-and-researcher",
       "decimals": 0,
       "description": "https://www.youtube.com/bitcoinkralicesi"
-    },
-    {
-      "tags": "31-Gitcoin Grants:Grant",
-      "address": "0x08ceb8bba685ee708c9c4c65576837cbe19b9dea",
-      "name": "Grant 759 DeFi Arts Intelligencer",
-      "symbol": "",
-      "source": "https://gitcoin.co/grants/759/defi-arts-intelligencer",
-      "decimals": 0,
-      "description": "https://artsdefi.substack.com/"
     }
   ],
   "types": [

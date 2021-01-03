@@ -4,16 +4,16 @@
     "holder": "0x5e44c3e467a49c9ca0296a9f130fc433041aaa28",
     "balance": 0,
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-    "name": "",
-    "symbol": "",
-    "decimals": 0
+    "name": "OMG Token Airdrop",
+    "symbol": "OMG",
+    "decimals": 18
   },
   {
     "blockNumber": 6610517,
     "holder": "0x5e44c3e467a49c9ca0296a9f130fc433041aaa28",
     "balance": 28161606913030313059494,
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-    "name": "OMGToken",
+    "name": "OMG Token Airdrop",
     "symbol": "OMG",
     "decimals": 18
   },
@@ -22,16 +22,16 @@
     "holder": "0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98",
     "balance": 0,
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-    "name": "",
-    "symbol": "",
-    "decimals": 0
+    "name": "OMG Token Airdrop",
+    "symbol": "OMG",
+    "decimals": 18
   },
   {
     "blockNumber": 6610517,
     "holder": "0xfbb1b73c4f0bda4f67dca266ce6ef42f520fbb98",
     "balance": 12532434494245807398909558,
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-    "name": "OMGToken",
+    "name": "OMG Token Airdrop",
     "symbol": "OMG",
     "decimals": 18
   }], "types": [
