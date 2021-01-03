@@ -28,7 +28,7 @@ void COptions::finishClean(CAccountName& name) {
     } else {
         name.is_erc20 = false;
         name.is_erc721 = false;
-        name.type = "EOA";
+        // name.type = "EOA";
     }
 }
 
