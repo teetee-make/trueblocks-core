@@ -39,6 +39,8 @@ class COptions : public COptionsBase {
     bool tags;
     // END_CODE_DECLARE
 
+    blknum_t latestBlock;
+
     CAccountNameMap items;
     CStringArray searches;
     string_q searchFields;

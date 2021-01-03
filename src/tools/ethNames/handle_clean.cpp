@@ -21,7 +21,7 @@ bool isERC721(const address_t& addr) {
 //--------------------------------------------------------------------
 void COptions::finishClean(CAccountName& name) {
     name.is_prefund = prefundWeiMap[name.address] > 0;
-    if (getDeployBlock(name.address)) {
+    if (isContractAt(name.address, latestBlock)) {
         name.is_erc20 = isERC20(name.address);
         name.is_erc721 = isERC721(name.address);
         name.type = "Contract";

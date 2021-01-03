@@ -66,6 +66,8 @@ bool COptions::parseArguments(string_q& command) {
     bool addr_only = false;
 
     Init();
+    blknum_t latest = getLatestBlock_client();
+    latestBlock = latest;
     explode(arguments, command, ' ');
     for (auto arg : arguments) {
         if (false) {
