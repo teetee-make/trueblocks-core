@@ -69,6 +69,7 @@
               "description": "",
               "is_custom": false,
               "is_prefund": false,
+              "is_contract": false,
               "is_erc20": false,
               "is_erc721": false,
               "nAppearances": 18446744073709552000,
@@ -100,6 +101,7 @@
               "description": "",
               "is_custom": false,
               "is_prefund": false,
+              "is_contract": false,
               "is_erc20": false,
               "is_erc721": false,
               "nAppearances": 18446744073709552000,
@@ -139,6 +141,7 @@
               "description": "",
               "is_custom": false,
               "is_prefund": false,
+              "is_contract": false,
               "is_erc20": false,
               "is_erc721": false,
               "nAppearances": 2020101,
@@ -358,16 +361,16 @@
           "type": "bool"
         },
         {
+          "name": "is_contract",
+          "type": "bool"
+        },
+        {
           "name": "is_erc20",
           "type": "bool"
         },
         {
           "name": "is_erc721",
           "type": "bool"
-        },
-        {
-          "name": "type",
-          "type": "text"
         },
         {
           "name": "nAppearances",
@@ -505,16 +508,16 @@
           "type": "bool"
         },
         {
+          "name": "is_contract",
+          "type": "bool"
+        },
+        {
           "name": "is_erc20",
           "type": "bool"
         },
         {
           "name": "is_erc721",
           "type": "bool"
-        },
-        {
-          "name": "type",
-          "type": "text"
         },
         {
           "name": "nAppearances",

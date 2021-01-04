@@ -31,6 +31,7 @@
               "description": "",
               "is_custom": false,
               "is_prefund": false,
+              "is_contract": false,
               "is_erc20": false,
               "is_erc721": false,
               "nAppearances": 0,
@@ -140,16 +141,16 @@
           "type": "bool"
         },
         {
+          "name": "is_contract",
+          "type": "bool"
+        },
+        {
           "name": "is_erc20",
           "type": "bool"
         },
         {
           "name": "is_erc721",
           "type": "bool"
-        },
-        {
-          "name": "type",
-          "type": "text"
         },
         {
           "name": "nAppearances",

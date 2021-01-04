@@ -36,9 +36,9 @@ class CAccountName : public CBaseNode {
     string_q description;
     bool is_custom;
     bool is_prefund;
+    bool is_contract;
     bool is_erc20;
     bool is_erc721;
-    string_q type;
     blknum_t nAppearances;
     blknum_t lastExport;
     blknum_t firstAppearance;
@@ -116,9 +116,9 @@ inline void CAccountName::initialize(void) {
     description = "";
     is_custom = false;
     is_prefund = false;
+    is_contract = false;
     is_erc20 = false;
     is_erc721 = false;
-    type = "";
     nAppearances = 0;
     lastExport = 0;
     firstAppearance = 0;
@@ -144,9 +144,9 @@ inline void CAccountName::duplicate(const CAccountName& ac) {
     description = ac.description;
     is_custom = ac.is_custom;
     is_prefund = ac.is_prefund;
+    is_contract = ac.is_contract;
     is_erc20 = ac.is_erc20;
     is_erc721 = ac.is_erc721;
-    type = ac.type;
     nAppearances = ac.nAppearances;
     lastExport = ac.lastExport;
     firstAppearance = ac.firstAppearance;

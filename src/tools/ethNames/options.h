@@ -15,7 +15,7 @@
  * Parts of this file were generated with makeClass. Edit only those parts of the code
  * outside of the BEG_CODE/END_CODE sections
  */
-#include "etherlib.h"
+#include "acctlib.h"
 
 // BEG_ERROR_DEFINES
 // END_ERROR_DEFINES
@@ -41,6 +41,7 @@ class COptions : public COptionsBase {
 
     blknum_t latestBlock;
 
+    CMonitor standards;
     CAccountNameMap items;
     CStringArray searches;
     string_q searchFields;

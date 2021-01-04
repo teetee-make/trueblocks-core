@@ -7,9 +7,9 @@
       "name": "OMGToken",
       "symbol": "OMG",
       "decimals": 18,
+      "is_contract": false,
       "is_erc20": false,
-      "is_erc721": false,
-      "type": ""
+      "is_erc721": false
     },
     {
       "blockNumber": 4001001,
@@ -18,9 +18,9 @@
       "name": "Swarm City Token",
       "symbol": "SWT",
       "decimals": 18,
+      "is_contract": false,
       "is_erc20": false,
-      "is_erc721": false,
-      "type": ""
+      "is_erc721": false
     }
   ],
   "types": [
@@ -52,16 +52,16 @@
           "type": "unumber"
         },
         {
+          "name": "is_contract",
+          "type": "bool"
+        },
+        {
           "name": "is_erc20",
           "type": "bool"
         },
         {
           "name": "is_erc721",
           "type": "bool"
-        },
-        {
-          "name": "type",
-          "type": "text"
         }
       ]
     }

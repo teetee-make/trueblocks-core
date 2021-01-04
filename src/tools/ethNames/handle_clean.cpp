@@ -20,16 +20,30 @@ bool isERC721(const address_t& addr) {
 }
 //--------------------------------------------------------------------
 void COptions::finishClean(CAccountName& name) {
+    LOG_INFO("Cleaning ", name.address, "                                  \r");
     name.is_prefund = prefundWeiMap[name.address] > 0;
-    if (isContractAt(name.address, latestBlock)) {
-        name.is_erc20 = isERC20(name.address);
-        name.is_erc721 = isERC721(name.address);
-        name.type = "Contract";
+    if (!maliciousMap[name.address] && isContractAt(name.address, latestBlock)) {
+        standards.address = name.address;
+        string_q nm = getTokenState("name", standards, latestBlock);
+        if (!nm.empty()) {
+            name.decimals = str_2_Uint(getTokenState("decimals", standards, latestBlock));
+            name.symbol = getTokenState("symbol", standards, latestBlock);
+            name.is_erc20 = true;
+            if (!contains(name.source, "kickback")) {
+                name.source = "On chain";
+                name.name = (contains(name.name, "Airdrop") ? nm + " Airdrop" : nm);
+            }
+            // name.is_erc721 = isERC721(name.address);
+        }
+        name.is_contract = true;
     } else {
+        name.is_contract = false;
         name.is_erc20 = false;
         name.is_erc721 = false;
-        // name.type = "EOA";
     }
+    if (contains(name.source, "EtherScan"))
+        name.source = "EtherScan.io";
+    name.name = trim(substitute(name.name, "  ", " "));
 }
 
 //--------------------------------------------------------------------
@@ -59,12 +73,18 @@ bool COptions::cleanNames(const string_q& sourceIn, const string_q& destIn) {
         names.push_back(name);
     }
     sort(names.begin(), names.end());
+    CAccountNameArray deduped;
+    address_t prev;
+    for (auto item : names) {
+        if (item.address != prev)
+            deduped.push_back(item);
+        prev = item.address;
+    }
 
     ostringstream os;
     os << fieldStr << endl;
-    for (auto n : names) {
+    for (auto n : deduped)
         os << n.Format(STR_DISPLAY_ACCOUNTNAME) << endl;
-    }
     stringToAsciiFile(dest, os.str());
 
     return true;

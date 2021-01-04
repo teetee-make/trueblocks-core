@@ -12005,9 +12005,9 @@
       "description": "",
       "is_custom": true,
       "is_prefund": false,
+      "is_contract": false,
       "is_erc20": false,
-      "is_erc721": false,
-      "type": ""
+      "is_erc721": false
     }
   }
 }

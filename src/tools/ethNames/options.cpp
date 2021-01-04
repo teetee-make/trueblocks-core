@@ -126,8 +126,11 @@ bool COptions::parseArguments(string_q& command) {
         }
     }
 
-    if (clean)
+    if (clean) {
+        standards.abi_spec.loadAbiFromFile(configPath("known_abis/token_abis.json"), true);
+        standards.abi_spec.loadAbiFromFile(configPath("known_abis/erc_721.json"), true);
         return handle_clean();
+    }
 
     if (collections) {
         exportCollections(terms);
@@ -135,6 +138,8 @@ bool COptions::parseArguments(string_q& command) {
     }
 
     if (isCrudCommand()) {
+        standards.abi_spec.loadAbiFromFile(configPath("known_abis/token_abis.json"), true);
+        standards.abi_spec.loadAbiFromFile(configPath("known_abis/erc_721.json"), true);
         if (!processEditCommand(terms, to_custom))
             return false;
     }
@@ -223,9 +228,9 @@ bool COptions::parseArguments(string_q& command) {
         HIDE_FIELD(CAccountName, "deleted");
         HIDE_FIELD(CAccountName, "is_custom");
         HIDE_FIELD(CAccountName, "is_prefund");
+        HIDE_FIELD(CAccountName, "is_contract");
         HIDE_FIELD(CAccountName, "is_erc20");
         HIDE_FIELD(CAccountName, "is_erc721");
-        HIDE_FIELD(CAccountName, "type");
     }
 
     // Collect results for later display
@@ -242,9 +247,9 @@ bool COptions::parseArguments(string_q& command) {
         HIDE_FIELD(CAccountName, "decimal");
         HIDE_FIELD(CAccountName, "is_custom");
         HIDE_FIELD(CAccountName, "is_prefund");
+        HIDE_FIELD(CAccountName, "is_contract");
         HIDE_FIELD(CAccountName, "is_erc20");
         HIDE_FIELD(CAccountName, "is_erc721");
-        HIDE_FIELD(CAccountName, "type");
     }
 
     return true;
@@ -439,9 +444,9 @@ string_q shortenFormat(const string_q& fmtIn) {
     replace(ret, "[{DELETED}]", "");
     replace(ret, "[{IS_CUSTOM}]", "");
     replace(ret, "[{IS_PREFUND}]", "");
+    replace(ret, "[{IS_CONTRACT}]", "");
     replace(ret, "[{IS_ERC20}]", "");
     replace(ret, "[{IS_ERC721}]", "");
-    replace(ret, "[{TYPE}]", "");
     return trim(ret, '\t');
 }
 
@@ -454,9 +459,9 @@ string_q getSearchFields(const string_q& fmtIn) {
     replace(ret, "[{DELETED}]", "");
     replace(ret, "[{IS_CUSTOM}]", "");
     replace(ret, "[{IS_PREFUND}]", "");
+    replace(ret, "[{IS_CONTRACT}]", "");
     replace(ret, "[{IS_ERC20}]", "");
     replace(ret, "[{IS_ERC721}]", "");
-    replace(ret, "[{TYPE}]", "");
     return trim(ret, '\t');
 }
 
@@ -475,7 +480,7 @@ bool COptions::processEditCommand(CStringArray& terms, bool to_custom) {
         return usage("Invalid edit command '" + crudCommand + "'. Quitting...");
 
     CAccountName target;
-    target.address = trim(getEnvStr("TB_NAME_ADDRESS"), '\"');
+    target.address = toLower(trim(getEnvStr("TB_NAME_ADDRESS"), '\"'));
     if (target.address.empty()) {
         target.address = terms[0];
     }
@@ -495,8 +500,8 @@ bool COptions::processEditCommand(CStringArray& terms, bool to_custom) {
     }
 
     bool isEdit = crudCommand == "create" || crudCommand == "update";
-    string_q fmt = isEdit ? "tags\taddress\tname\tsymbol\tsource\tdescription\tdecimals\tdeleted\tis_custom\tis_"
-                            "prefund\tis_erc20\tis_erc721\ttype"
+    string_q fmt = isEdit ? "tags\taddress\tname\tsymbol\tsource\tdescription\tdecimals\tdeleted\tis_custom"
+                            "\tis_prefund\tis_contract\tis_erc20\tis_erc721"
                           : "address";
     CStringArray fields;
     explode(fields, fmt, '\t');

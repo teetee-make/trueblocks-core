@@ -8,9 +8,9 @@
       "name": "Swarm City Token",
       "symbol": "SWT",
       "decimals": 18,
-      "is_erc20": false,
-      "is_erc721": false,
-      "type": ""
+      "is_contract": true,
+      "is_erc20": true,
+      "is_erc721": false
     }
   ],
   "errors": [
@@ -49,16 +49,16 @@
           "type": "unumber"
         },
         {
+          "name": "is_contract",
+          "type": "bool"
+        },
+        {
           "name": "is_erc20",
           "type": "bool"
         },
         {
           "name": "is_erc721",
           "type": "bool"
-        },
-        {
-          "name": "type",
-          "type": "text"
         }
       ]
     }
